@@ -1,0 +1,93 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: #212529;
+}
+header li a
+{
+    border-radius: 20px;
+    margin: 5px;
+}
+header li a:hover
+{
+    background-color: #59c8ec;
+    color: black;
+    border-radius: 20px;
+}
+#About-Me img
+{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+#My-Work
+{
+    background-color: #51c3e9;
+    color: black;
+}
+#Contact-Info .container-fluid ul
+{
+    list-style-type: none;
+    /* float: right; */
+}
+
+#Contact-Info a
+{
+    background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+    text-decoration: none;
+    color: black;
+}
+#Contact-Info a:hover
+{
+    background-color: #59c8ec;
+    border-radius: 5px;
+    padding: 5px;
+    text-decoration: none;
+    color: white;
+}
+.weather-app-image,
+.Run-buddy-image
+{
+    height: 100%;
+    width: 70%;
+}
+#My-Work span
+{
+    margin-right: 1rem;
+}
+.liveLink
+{
+    background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+    text-decoration: none;
+    color: black;
+}
+.liveLink:hover
+{
+    background-color: black;
+    border-radius: 5px;
+    padding: 5px;
+    text-decoration: none;
+    color: white;
+}
+.githubLink
+{
+    background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+    text-decoration: none;
+    color: black;
+}
+.githubLink:hover
+{
+    background-color: black;
+    border-radius: 5px;
+    padding: 5px;
+    text-decoration: none;
+    color: white;
+}
