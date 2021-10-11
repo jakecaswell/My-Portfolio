@@ -50,7 +50,11 @@ header li a:hover
     color: white;
 }
 .weather-app-image,
-.Run-buddy-image,
+.Run-buddy-image
+{
+    height: 100%;
+    width: 70%;
+}
 .stock-watchlist-image
 {
     height: 100%;
